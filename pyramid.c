@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
+//generate right jusified half pyramid
+
 int pound(int n);
 
 int main(void)
